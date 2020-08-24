@@ -1,0 +1,58 @@
+.main_header{
+	background: black;
+	color: white;
+	height: 80px;
+}
+.site_name{
+	margin: 20px;
+  font-size: 40px
+
+}
+
+
+
+
+
+
+*{
+	margin:      0;
+	padding:     0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+body{
+	background: #6E6E6E;
+}
+.contenedor{
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	padding: 60px;
+	background: #ffff;
+	margin-top: 50px;
+	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.4);
+}
+.titulo{
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 40px;
+	font-weight: 100;
+}
+.sub_titulo{
+	font-size: 30px;
+	font-weight: 400;
+}
+.contenedor img{
+	width: 300px;
+	height: 200px;
+  float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.8);
+}
+.contenedor p{
+	text-align: justify;
+	font-size: 18px;
+	font-weight: 100;
+	margin-top: 20px;
+}
